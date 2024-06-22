@@ -1,7 +1,7 @@
 # Custom Device driver yocto image
 To add a custom device driver to Yocto
 ## Steps 
-  - Go to ```PATH/poky/meta-skeleton/recipes-kernel``` u would find ``hello-mod``` file this an example for device driver for yocto
+  - Go to ```PATH/poky/meta-skeleton/recipes-kernel``` u would find ```hello-mod``` file this an example for device driver for yocto
     
 ![image](https://github.com/Rabie45/Custom-Device-driver-yocto-image/assets/76526170/7a71c792-e69c-4639-aeaf-358ecba0652a)
 
